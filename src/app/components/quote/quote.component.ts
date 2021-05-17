@@ -9,14 +9,16 @@ import { Quote } from "../../quote"
 export class QuoteComponent implements OnInit {
 
   quotes = [
-    new Quote(1, "The greatest glory in living lies not in never falling, but in rising every time we fall.", 0, 0, "Nelson Mandela", "Victor Maina"),
-    new Quote(2, "The way to get started is to quit talking and begin doing.", 0, 0, "Walt Disney", "Victor Maina"),
-    new Quote(3, "If life were predictable it would cease to be life, and be without flavor.", 0, 0, "Eleanor Roosevelt", "Victor Maina"),
-    new Quote(4, "Spread love everywhere you go. Let no one ever come to you without leaving happier.", 0, 0, "Mother Teresa", "Victor Maina"),
-    new Quote(5, "When you reach the end of your rope, tie a knot in it and hang on.", 0, 0, "Franklin D. Roosevelt", "Victor Maina"),
-    new Quote(6, "It is during our darkest moments that we must focus to see the light.", 0, 0, "Aristotle", "Victor Maina"),
-    new Quote(7, "You will face many defeats in life, but never let yourself be defeated.", 0, 0, "Maya Angelou", "Victor Maina"),
-    new Quote(8, "Many of life's failures are people who did not realize how close they were to success when they gave up.", 0, 0, "Thomas A. Edison", "Victor Maina")
+    new Quote(1, "I spent a lot of money on booze, birds and fast cars. The rest I just squandered.", 0, 0, "George Best", "Psy Aspin"),
+    new Quote(2, "The cars we drive say a lot about us.", 0, 0, "Alexandria Paul", "Psy Aspin"),
+    new Quote(3, "There's three things men always talk about - women, sports, and cars.", 0, 0, "Mario Lopez", "Psy Aspin"),
+    new Quote(4, "Self-driving cars are the natural extension of active safety and obviously something we should do.", 0, 0, "Elon Musk", "Aspin Isoe"),
+    new Quote(5, "But my passion is racing cars. It's what I like to do in my off time.", 0, 0, "Mark-Paul Gosselaar", "Isoe A."),
+    new Quote(6, "If GM had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1,000 MPG.", 0, 0, "Bill Gates", "Psy A."),
+    new Quote(7, "It's like driving a car at night. You never see further than your headlights, but you can make the whole trip that way.", 0, 0, "E.L. Doctorow", "Psy Isoe"),
+    new Quote(8, "It's a never ending battle of making your cars better and also trying to be better yourself.", 0, 0, "Dale Earnhardt", "Psy Aspin"),
+    new Quote(8, "Everything in life is somewhere else, and you get there in a car.", 0, 0, "E.B. White", "Psy Aspin"),
+    new Quote(8, "I love fast cars... and to go too fast in them.", 0, 0, "Lara Flynn Boyle", "Psy Aspin"),
   ];
 
   findHighestUpvote(arr) {
