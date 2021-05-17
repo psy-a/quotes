@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HighestVoteDirective } from './directives/highest-vote.directive';
-import { QuoteFormComponent } from './components/new-quote-form/new-quote-form.component';
+import { QuoteFormComponent } from './components/quote-form/quote-form.component';
 import { QuoteComponent } from './components/quote/quote.component';
 import { QuoteDetailsComponent } from './components/quote-details/quote-details.component';
 import { TimePassedPipe } from './pipes/time-passed.pipe';
@@ -16,7 +16,7 @@ import { HeaderComponent } from './components/header/header.component';
   declarations: [
     AppComponent,
     HighestVoteDirective,
-    NewQuoteFormComponent,
+    QuoteFormComponent,
     QuoteComponent,
     QuoteDetailsComponent,
     TimePassedPipe,

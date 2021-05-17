@@ -1,3 +1,4 @@
+// import { Quote } from '../../quote';
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 
 @Component({
