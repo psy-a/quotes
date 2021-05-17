@@ -9,14 +9,10 @@ import { Quote } from "../../quote"
 export class QuoteComponent implements OnInit {
 
   quotes = [
-    new Quote(1, "The greatest glory in living lies not in never falling, but in rising every time we fall.", 0, 0, "Nelson Mandela", "Victor Maina"),
-    new Quote(2, "The way to get started is to quit talking and begin doing.", 0, 0, "Walt Disney", "Victor Maina"),
-    new Quote(3, "If life were predictable it would cease to be life, and be without flavor.", 0, 0, "Eleanor Roosevelt", "Victor Maina"),
-    new Quote(4, "Spread love everywhere you go. Let no one ever come to you without leaving happier.", 0, 0, "Mother Teresa", "Victor Maina"),
-    new Quote(5, "When you reach the end of your rope, tie a knot in it and hang on.", 0, 0, "Franklin D. Roosevelt", "Victor Maina"),
-    new Quote(6, "It is during our darkest moments that we must focus to see the light.", 0, 0, "Aristotle", "Victor Maina"),
-    new Quote(7, "You will face many defeats in life, but never let yourself be defeated.", 0, 0, "Maya Angelou", "Victor Maina"),
-    new Quote(8, "Many of life's failures are people who did not realize how close they were to success when they gave up.", 0, 0, "Thomas A. Edison", "Victor Maina")
+    new Quote(1, "You miss 100% of the shots you don't take.he greatest glory in living lies not in never falling, but in rising every time we fall.", 0, 0, "Wayne Gretzky", "Psy Aspin"),
+    new Quote(2, "Whether you think you can or you think you can't, you're right.", 0, 0, "Henry Ford", "Psy Aspin"),
+    new Quote(3, "The question isn't who is going to let me; it's who is going to stop me.", 0, 0, "Ayn Rand", "Psy Aspin"),
+    new Quote(4, "I have a dream", 0, 0, "Martin Luther King Jr", "Psy Aspin"),
   ];
 
   findHighestUpvote(arr) {
