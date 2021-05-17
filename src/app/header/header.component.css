@@ -1,0 +1,21 @@
+#header {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 2.3em;
+    /* identical to box height */
+    color: #000000;
+    background: red;
+    /* position: absolute; */
+    top: 0;
+    padding-top: 15px;
+    padding-bottom: 2px;
+    padding-left: 5%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+#header span {
+    font-weight: 500;
+}
