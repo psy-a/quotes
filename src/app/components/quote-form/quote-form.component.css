@@ -1,10 +1,10 @@
 #form-title {
-    font-family: Poppins;
+    font-family: 'Raleway';
     font-style: normal;
     font-weight: 600;
     font-size: 1.8em;
     line-height: 48px;
-    color: #FFFFFF;
+    color: white;
 }
 
 input,
@@ -24,11 +24,4 @@ textarea {
 label {
     color: white;
     font-size: 0.9em;
-    font-style: italic;
 }
-
-
-/* #submit {
-    color: rgb(255, 255, 255);
-    background-color: red;
-} */

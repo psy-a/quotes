@@ -1,12 +1,10 @@
 #header {
-    font-family: Poppins;
+    font-family: 'Raleway';
     font-style: normal;
     font-weight: 900;
-    font-size: 2.3em;
-    /* identical to box height */
-    color: #000000;
-    background: #FFE600;
-    /* position: absolute; */
+    font-size: 2.8em;
+    color: #1b4332;
+    background: #74c69d;
     top: 0;
     padding-top: 15px;
     padding-bottom: 2px;
