@@ -1,5 +1,5 @@
 # Aspin's Quotes Project.
-#### This is my Quotes project website done on my week 10 as an Independent Project at Moringa School, 18th May 2021.
+#### This is my Quotes project website done on my week 10 as an Independent Project at Moringa School, 16th May 2021.
 #### By **Psy Aspin**
 ## Description
 This is a website that displays famous quotes.
@@ -16,7 +16,7 @@ To access this project on your local files, you can clone it using these steps.
 * Run ng serve -o to build and run on browser via http://localhost:4200.
 * Enjoy.
 ## Known Bugs
-There are no known bugs at this moment.
+Delete quote is currently not working.
 ## Technologies Used
 1. HTML
 2. CSS
