@@ -21,9 +21,10 @@ There are no known bugs at this moment.
 1. HTML
 2. CSS
 3. Bootstrap
-4. Typescript
-5. Angular
-6. GIT
+4. Javascript
+5. Typescript
+6. Angular
+7. GIT
 ### Live Site
 View [live](https://psy-a.github.io/quotes/)
 ## Support and contact details
