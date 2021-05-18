@@ -18,7 +18,7 @@ export class QuoteComponent implements OnInit {
     new Quote(7, "It's like driving a car at night. You never see further than your headlights, but you can make the whole trip that way.", 0, 0, "E.L. Doctorow", "Psy Isoe"),
     new Quote(8, "It's a never ending battle of making your cars better and also trying to be better yourself.", 0, 0, "Dale Earnhardt", "Psy Aspin"),
     new Quote(8, "Everything in life is somewhere else, and you get there in a car.", 0, 0, "E.B. White", "Psy Aspin"),
-    new Quote(8, "I love fast cars... and to go too fast in them.", 0, 0, "Lara Flynn Boyle", "Psy Aspin"),
+    new Quote(8, "I love fast cars and to go too fast in them.", 0, 0, "Lara Flynn Boyle", "Psy Aspin"),
   ];
 
   findHighestUpvote(arr) {

@@ -21,7 +21,7 @@ import { HeaderComponent } from './components/header/header.component';
     QuoteDetailsComponent,
     TimePassedPipe,
     VoteComponent,
-    HeaderComponent
+    HeaderComponent,
   ],
   imports: [
     BrowserModule,
